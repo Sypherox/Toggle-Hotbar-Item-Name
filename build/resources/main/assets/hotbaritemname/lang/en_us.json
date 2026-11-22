@@ -1,0 +1,6 @@
+{
+  "hotbaritemname.config.title": "Hotbar Item Name",
+  "hotbaritemname.config.show_item_name": "Show item name above hotbar: %s",
+  "hotbaritemname.command.shown": "Item name above the hotbar is now shown.",
+  "hotbaritemname.command.hidden": "Item name above the hotbar is now hidden."
+}

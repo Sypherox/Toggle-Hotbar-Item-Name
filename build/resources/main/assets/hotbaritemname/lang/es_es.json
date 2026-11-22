@@ -1,0 +1,6 @@
+{
+  "hotbaritemname.config.title": "Hotbar Item Name",
+  "hotbaritemname.config.show_item_name": "Mostrar el nombre del objeto sobre la barra de acceso rápido: %s",
+  "hotbaritemname.command.shown": "El nombre del objeto sobre la barra de acceso rápido ahora se muestra.",
+  "hotbaritemname.command.hidden": "El nombre del objeto sobre la barra de acceso rápido ahora está oculto."
+}

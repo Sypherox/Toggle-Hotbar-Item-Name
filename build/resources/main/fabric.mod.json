@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "hotbaritemname",
+  "version": "1.0.3",
+  "name": "Toggle Hotbar Itemname",
+  "description": "Toggles the item name display above the hotbar.",
+  "authors": ["Sypherox"],
+  "license": "MIT",
+  "environment": "client",
+  "icon": "assets/hotbaritemname/icon.png",
+  "entrypoints": {
+    "client": ["dev.sypherox.HotbarItemNameClient"],
+    "modmenu": ["dev.sypherox.ModMenuIntegration"]
+  },
+  "contact": {
+    "homepage": "https://github.com/DEIN-NAME/HideItemTooltip",
+    "issues": "https://github.com/DEIN-NAME/HideItemTooltip/issues"
+  },
+  "depends": {
+    "fabricloader": ">=0.19.1",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}
